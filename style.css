@@ -1,0 +1,38 @@
+.letters {
+    display: flex;
+    flex-direction: row; 
+    width: 575px; 
+    background-color: gray;
+}
+.letter {
+    width: 35px; 
+    margin-left: 35px;
+}
+.chessboard {
+    width: 575px; 
+    height: 575px; 
+    background-color: gray;
+}
+.number {
+    margin-top: 25px; 
+    width: 10px; 
+    height: 10px; 
+    float: left; 
+    color: black;
+}
+.white {
+    width: 70px; 
+    height: 70px; 
+    background-color: whitesmoke; 
+    float: left;
+}
+.dark {
+    width: 70px; 
+    height: 70px; 
+    background-color: brown; 
+    float: left;
+}
+.figure {
+    width: 70px;
+    height: 70px;
+}
